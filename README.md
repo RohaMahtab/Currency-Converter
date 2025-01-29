@@ -14,7 +14,7 @@ https://rohamahtab.github.io/Currency-Converter/
 
 ![Screenshot (427)](https://github.com/user-attachments/assets/61d9e707-f2ef-40f3-aeb6-a1fb56aa4279)
 
-#Technologies Used
+# Technologies Used
 - HTML
 - CSS
 - JAVASCRIPT (MODERN)
